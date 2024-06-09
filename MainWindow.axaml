@@ -6,7 +6,7 @@
         x:Class="PLG_Uhr.MainWindow"
         Title="PLG_Uhr">
     <Grid>
-        <Button Width="60" Height="60" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"><Button.Content><Image x:Name="ImgSettings"></Button.Content></Button>
+        <Button Width="60" Height="60" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10"><Button.Content><Image x:Name="ImgSettings" /></Button.Content></Button>
         <Grid>
 
         </Grid>

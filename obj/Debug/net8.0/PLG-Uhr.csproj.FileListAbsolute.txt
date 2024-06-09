@@ -124,3 +124,4 @@
 /home/fierke/Dokumente/source/repos/PLG-Uhr/obj/Debug/net8.0/PLG-Uhr.csproj.CopyComplete
 /home/fierke/Dokumente/source/repos/PLG-Uhr/obj/Debug/net8.0/PLG-Uhr.genruntimeconfig.cache
 /home/fierke/Dokumente/source/repos/PLG-Uhr/obj/Debug/net8.0/ref/PLG-Uhr.dll
+/home/fierke/Dokumente/source/repos/PLG-Uhr/obj/Debug/net8.0/PLG-Uhr.sourcelink.json
